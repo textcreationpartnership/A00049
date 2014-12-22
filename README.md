@@ -35,11 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-THRIFTS
-EQVIPAGE:
-Viz.Fiue Diuine and Morall Meditations,
-OF
-1. Frugalitie.2. Prouidence.3. DiligencI Meddle not with newes of Parlament,Court-Fauourites, or Kingdomes gouernement;I on Kings secrets, 
+I Meddle not with newes of Parlament,Court-Fauourites, or Kingdomes gouernement;I on Kings secrets, 
 1. To the Author.
 
 1. TO THE RIGHT
