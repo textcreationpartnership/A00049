@@ -35,11 +35,34 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Thrifts equipage Viz. fiue diuine and morall meditations, of 1. Frugalitie. 2. Prouidence. 3. Dilige
+THRIFTS
+EQVIPAGE:
+Viz.Fiue Diuine and Morall Meditations,
+OF
+1. Frugalitie.2. Prouidence.3. DiligencI Meddle not with newes of Parlament,Court-Fauourites, or Kingdomes gouernement;I on Kings secrets, 
+1. To the Author.
+
+1. TO THE RIGHT
+HONORABLE, WILLIAM,
+LORD MAYNARD, MY
+very good Lord.
+
 #####Body#####
-Thrifts equipage Viz. fiue diuine and morall meditations, of 1. Frugalitie. 2. Prouidence. 3. Dilige
+
+1. MEDITATION 1.
+
+1. MEDITATION 2.
+
+1. MEDITATION 3.
+
+1. MEDITATION 4.
+
+1. MEDITATION 5.
+
 #####Back#####
-Thrifts equipage Viz. fiue diuine and morall meditations, of 1. Frugalitie. 2. Prouidence. 3. Dilige
+TO thee, poore Bird, in Cage imprisoned;How like am I, by Ag•e visited?I cannot vse my horse, nor th
+1. Of dying young.
+
 **Types of content**
 
   * There are 2143 **verse** lines!
